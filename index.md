@@ -2,3 +2,9 @@
 ## This is a level 2 header
 
 ![Image of Pusheencat](https://octodex.github.com/images/pusheencat.png)
+
+```python
+from datetime import datetime
+
+print(datetime.now().isoformat())
+```
